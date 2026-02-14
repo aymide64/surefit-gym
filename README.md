@@ -6,7 +6,7 @@ A premium, high-energy fitness landing page for Surefit Gym in Ikeja, Lagos, fea
 
 ## 🌐 Live Demo
 
-Visit the live site: [https://yourusername.github.io/surefit-gym](https://yourusername.github.io/surefit-gym)
+Visit the live site: [https://aymide64.github.io/surefit-gym](https://aymide64.github.io/surefit-gym)
 
 ## ✨ Features
 
@@ -34,7 +34,7 @@ Visit the live site: [https://yourusername.github.io/surefit-gym](https://yourus
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/surefit-gym.git
+   git clone https://github.com/aymide64/surefit-gym.git
    cd surefit-gym
    ```
 
@@ -90,7 +90,7 @@ This project includes a GitHub Actions workflow that automatically deploys to Gi
 3. **Update the homepage URL**
    - Edit `package.json` and replace `yourusername` with your actual GitHub username:
      ```json
-     "homepage": "https://yourusername.github.io/surefit-gym"
+     "homepage": "https://aymide64.github.io/surefit-gym"
      ```
    - Edit `vite.config.ts` and update the base path:
      ```typescript
@@ -107,7 +107,7 @@ This project includes a GitHub Actions workflow that automatically deploys to Gi
 5. **Wait for deployment**
    - Go to **Actions** tab in your repository
    - Wait for the workflow to complete (usually 1-2 minutes)
-   - Your site will be live at `https://yourusername.github.io/surefit-gym`
+   - Your site will be live at `https://aymide.github.io/surefit-gym`
 
 ### Method 2: Manual Deployment
 
@@ -191,3 +191,4 @@ For questions or support, please contact:
 ---
 
 Built with 💪 by Elichspace
+
