@@ -78,7 +78,7 @@ This project includes a GitHub Actions workflow that automatically deploys to Gi
    git add .
    git commit -m "Initial commit"
    git branch -M main
-   git remote add origin https://github.com/yourusername/surefit-gym.git
+   git remote add origin https://github.com/aymide64/surefit-gym.git
    git push -u origin main
    ```
 
