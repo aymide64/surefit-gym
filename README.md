@@ -190,4 +190,4 @@ For questions or support, please contact:
 
 ---
 
-Built with 💪 by Surefit Gym Team
+Built with 💪 by Elichspace
